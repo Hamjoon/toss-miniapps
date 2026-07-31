@@ -1,6 +1,9 @@
 # toss-miniapps
 A project to list and manage the Toss mini-apps that have been released
 
+## Audits
+- [2026-07-29 In-App Ad Policy Audit](docs/audits/2026-07-29-in-app-ad-policy.md)
+
 ## App List - Released
 ### 독서 잔디밭
 - appName: [reading-lawn](https://apps-in-toss.toss.im/workspace/18449/mini-app/32127)
