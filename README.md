@@ -32,6 +32,9 @@ A project to list and manage the Toss mini-apps that have been released
 ### Hope 해석 투표
 - appName: [movie-hope](https://apps-in-toss.toss.im/workspace/18449/mini-app/57116/home)
 - repo:https://github.com/Hamjoon/toss-movie-hope
+### 평냉 배터리
+- appName: [cold-noodles-gauge](https://apps-in-toss.toss.im/workspace/18449/mini-app/cold-noodles-gauge/home)
+- repo: https://github.com/Hamjoon/toss-cold-noodles-gauge
 
 ## App List - In Development
 ### 룬의 겨울 (게임)
