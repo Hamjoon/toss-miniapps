@@ -35,6 +35,9 @@ A project to list and manage the Toss mini-apps that have been released
 ### 평냉 배터리
 - appName: [cold-noodles-gauge](https://apps-in-toss.toss.im/workspace/18449/mini-app/cold-noodles-gauge/home)
 - repo: https://github.com/Hamjoon/toss-cold-noodles-gauge
+### 아시안게임 일정
+- appName: [asian-games-2026](https://apps-in-toss.toss.im/workspace/18449/mini-app/asian-games-2026/home)
+- repo: https://github.com/Hamjoon/webapp-asian-games-2026
 
 ## App List - In Development
 ### 룬의 겨울 (게임)
